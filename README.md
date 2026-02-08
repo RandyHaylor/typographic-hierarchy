@@ -19,25 +19,36 @@
 
 <h2>Key Aspects of Typographic Hierarchy</h2>
 
-<h3>Levels of Hierarchy</h3>
-<p>A typical, effective structure consists of three main levels:</p>
+<p>
+  <em>
+    Typographic hierarchy means glancers get the concept, skimmers get the cliff notes, 
+    and readers get the details. Nail this, and your design can finally match your ambition.
+  </em>
+</p>
+
+<ul>
+  <li>Design for three reading depths: glance, skim, and deep read</li>
+  <li>Higher-level elements must be independently meaningful</li>
+  <li>Headlines and subheads should deliver a complete message on their own</li>
+  <li>Strong hierarchy enables bold, creative layouts without sacrificing clarity</li>
+  <li>Primary levels carry core meaning; deeper levels add context and nuance</li>
+  <li>Each level supplements rather than replaces earlier information</li>
+</ul>
+
+<h3>Progressive Understanding by Reading Depth</h3>
 
 <ul>
   <li>
-    <h4>Level 1 (Headline)</h4>
-    <p>The most prominent, largest text designed to grab attention immediately.</p>
+    <strong>H1 only</strong>
+    <p>The subject and intent are immediately clear (the takeaway for a glance).</p>
   </li>
-
   <li>
-    <h4>Level 2 (Subhead)</h4>
-    <p>Smaller than the headline, used to break up content and guide the reader through sections.</p>
+    <strong>H1 + H2</strong>
+    <p>The scope and high-level message are clear (the takeaway for a quick scan).</p>
   </li>
-
   <li>
-    <h4>Level 3 (Body Copy)</h4>
-    <p>The main, readable text, usually smaller and with consistent styling.</p>
+    <strong>Full content</strong>
+    <p>Details and nuance are available for readers who choose to engage deeper.</p>
   </li>
 </ul>
-
-<p><strong>Additional Levels:</strong> Captions, pull quotes, and metadata (e.g., author, date) can be used for extra detail.</p>
 
