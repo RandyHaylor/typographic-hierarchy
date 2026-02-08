@@ -17,14 +17,27 @@
 
 <hr/>
 
-<p><b>Key Aspects of Typographic Hierarchy</b></p>
+<h2>Key Aspects of Typographic Hierarchy</h2>
 
-<p><b>Levels of Hierarchy:</b> A typical, effective structure consists of three main levels:</p>
+<h3>Levels of Hierarchy</h3>
+<p>A typical, effective structure consists of three main levels:</p>
 
-<p><b>Level 1 (Headline):</b> The most prominent, largest text designed to grab attention immediately.</p>
+<ul>
+  <li>
+    <h4>Level 1 (Headline)</h4>
+    <p>The most prominent, largest text designed to grab attention immediately.</p>
+  </li>
 
-<p><b>Level 2 (Subhead):</b> Smaller than the headline, used to break up content and guide the reader through sections.</p>
+  <li>
+    <h5>Level 2 (Subhead)</h5>
+    <p>Smaller than the headline, used to break up content and guide the reader through sections.</p>
+  </li>
 
-<p><b>Level 3 (Body Copy):</b> The main, readable text, usually smaller and with consistent styling.</p>
+  <li>
+    <strong>Level 3 (Body Copy)</strong>
+    <p>The main, readable text, usually smaller and with consistent styling.</p>
+  </li>
+</ul>
 
-<p><b>Additional Levels:</b> Captions, pull quotes, and metadata (e.g., author, date) can be used for extra detail.</p>
+<p><strong>Additional Levels:</strong> Captions, pull quotes, and metadata (e.g., author, date) can be used for extra detail.</p>
+
