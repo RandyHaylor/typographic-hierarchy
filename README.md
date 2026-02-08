@@ -29,12 +29,12 @@
   </li>
 
   <li>
-    <h5>Level 2 (Subhead)</h5>
+    <h4>Level 2 (Subhead)</h4>
     <p>Smaller than the headline, used to break up content and guide the reader through sections.</p>
   </li>
 
   <li>
-    <strong>Level 3 (Body Copy)</strong>
+    <h4>Level 3 (Body Copy)</h4>
     <p>The main, readable text, usually smaller and with consistent styling.</p>
   </li>
 </ul>
