@@ -11,6 +11,9 @@ git clone https://github.com/RandyHaylor/typographic-hierarchy.git
 option 1: tell ai agent to use the typographic-hierarchy skill for your task
 option 2: update your project or global agent instructions to incorporate the typographic-hierarchy skill
 
+---
+
+<div>
 
 <p><b>Key Aspects of Typographic Hierarchy</b></p>
 
@@ -23,3 +26,5 @@ option 2: update your project or global agent instructions to incorporate the ty
 <p><b>Level 3 (Body Copy):</b> The main, readable text, usually smaller and with consistent styling.</p>
 
 <p><b>Additional Levels:</b> Captions, pull quotes, and metadata (e.g., author, date) can be used for extra detail.</p>
+
+</div>
