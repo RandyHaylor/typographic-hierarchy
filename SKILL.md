@@ -7,6 +7,10 @@ description: "Format documentation, READMEs, and structured text using header hi
 
 *Typographic hierarchy means glancers get the concept, skimmers get the cliff notes, and readers get the details. Nail this, and your design can finally match your ambition.*
 
+# Definition
+
+Typographic hierarchy is the strategic organization of text elements to guide a reader’s eye, establishing a clear order of importance (headline, subhead, body) to make content navigable and engaging. It uses contrast in size, weight, color, and spacing to prioritize information, turning dense text into structured, accessible information. 
+
 ## Why Hierarchy Matters
 
 Structure information so users can:
