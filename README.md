@@ -1,4 +1,4 @@
-<img src="./typographic-hierarchy-lawn-care-example.png" alt="lawn care typographic hierarchy example graphic" width="400">
+<img src="./typographic-hierarchy-lawn-care-example.png" alt="lawn care typographic hierarchy example graphic" width="200">
 <h1>typographic-hierarchy</h1>
 <p>AI coding skill for implementing typographic hierarchy in system, ux, and document creation</p>
 
