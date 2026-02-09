@@ -51,4 +51,4 @@
     <p>Details and nuance are available for readers who choose to engage deeper.</p>
   </li>
 </ul>
-
+<img src="./typographic-hierarchy-lawn-care-example.png" alt="lawn care typographic hierarchy example graphic" width="800">
